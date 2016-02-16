@@ -13,5 +13,4 @@ A idéia é adicionar todos os arquivos ".dfm" de um projeto em Delphi ou C++ Bu
 
 Essa análise cria uma lista com os nomes dos objetos e os valores (Caption) definidos na interface, permitindo a tradução e a geração de um XML com a tradução.
 
-
-
+![Language Tools](https://github.com/pavanad/language-tools/blob/master/screenshot.png)
